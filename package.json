@@ -1,0 +1,11 @@
+{
+  "name": "basicservernodejs",
+  "version": "1.0.0",
+  "description": "this is a basic server htttp on nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "carlos montes vergara",
+  "license": "ISC"
+}
